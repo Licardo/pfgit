@@ -37,3 +37,6 @@ ManagerBaseBranch = develop
 .
 .
 .
+#### 命令行修改（unix）
+先执行 chmod +x pfgit.md
+以后可通过 ./pfgit.md 使用pfgit的功能
